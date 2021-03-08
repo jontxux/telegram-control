@@ -1,0 +1,15 @@
+APScheduler==3.6.3
+certifi==2020.12.5
+EasyProcess==0.3
+entrypoint2==0.2.3
+jeepney==0.6.0
+mss==6.1.0
+numpy==1.20.1
+opencv-python==4.5.1.48
+Pillow==8.1.2
+pyscreenshot==2.3
+python-telegram-bot==13.3
+pytz==2021.1
+six==1.15.0
+tornado==6.1
+tzlocal==2.1
